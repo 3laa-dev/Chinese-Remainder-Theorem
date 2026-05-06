@@ -26,7 +26,7 @@ int modInverse(int a, int  m) {
             return x;
         }
     }
-    return -1; // ters mod yoksa
+    return -1; 
 }
 
 
